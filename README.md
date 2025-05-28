@@ -16,7 +16,12 @@
 ![CDE](static/img/icon_cloud_development_environments_s.svg)
 ![DBDO](static/img/icon_dbdevops_s.svg)
 ![AR](static/img/icon_artifact_registry_s.svg)
-![Armory](static/img/icon_armory_s.svg)
+![Armory](static/img/icon_armory_s.svg)  
+
+
+<img src='https://qa.harness.io/gateway/code/api/v1/repos/bDCAuAjFSJCLFj_0ug3lCg/default/testritik/refimg/+/raw/images/Screenshot%202025-05-23%20at%204.40.03%E2%80%AFPM.png' alt='hc'>
+
+ 
 
 
 Welcome to the Harness Developer Hub (HDH)!
