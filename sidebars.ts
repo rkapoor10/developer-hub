@@ -88,9 +88,7 @@ const sidebars: SidebarsConfig = {
           customProps: {
             description:
               "Get started with Harness Database DevOps",
-          },
-        },
-        // Infrastructure as Code Landing Page
+Landing Page
         {
           type: "link",
           href: "/docs/infrastructure-as-code-management",
@@ -197,9 +195,7 @@ const sidebars: SidebarsConfig = {
           href: "/docs/internal-developer-portal",
           label: "Internal Developer Portal",
           className: "sidebar-idp",
-
-          customProps: {
-            description: "Get started with Harness Internal Developer Portal",
+et started with Harness Internal Developer Portal",
           },
         },
         // Cloud Development Environments Landing Page
