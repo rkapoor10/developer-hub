@@ -2000,7 +2000,7 @@ const sidebars: SidebarsConfig = {
         description: "Harness API Docs.",
       },
     },
-    // All Docs
+
     {
       type: "link",
       label: "Show All Docs",
