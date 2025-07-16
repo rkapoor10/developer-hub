@@ -1968,7 +1968,7 @@ et started with Harness Internal Developer Portal",
     },
     // Release Notes
     {
-      type: "link",
+      type: "link3",
       label: "Release Notes",
       className: "sidebar-Release_Notes",
       href: "/release-notes/code-repository",
@@ -1988,7 +1988,7 @@ et started with Harness Internal Developer Portal",
     },
     // API Docs
     {
-      type: "link",
+      type: "link2",
       label: "API Reference",
       className: "sidebar-API_Reference",
       href: "https://apidocs.harness.io/tag/repository/",
