@@ -15,7 +15,7 @@
 ![IDP](static/img/icon_idp_s.svg)
 ![CDE](static/img/icon_cloud_development_environments_s.svg)
 ![DBDO](static/img/icon_dbdevops_s.svg)
-![AR](static/img/icon_artifact_registry_s.svg)
+![AR](static/img/icon_artifact_registry_s.svg)dsf
 ![Armory](static/img/icon_armory_s.svg)  
 
 
