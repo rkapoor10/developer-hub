@@ -1,4 +1,4 @@
-# Harness Developer Hub
+d# Harness Developer Hub
 
 ![Code](static/img/icon_code_s.svg)
 ![CI](static/img/icon_ci_s.svg)
@@ -26,7 +26,7 @@
 
 Welcome to the Harness Developer Hub (HDH)!
 
-Learn intelligent software delivery skills at your own pace and in one place. Guides, videos, certifications, training, and reference docs help you create and deliver software.
+Learn intelligent software delivery skills at your own pace and in one place. Guides, videos, certifications, training, and reference docs help you create and deliver software
 
 ## Contributing
 
