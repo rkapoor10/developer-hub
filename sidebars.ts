@@ -18,9 +18,9 @@ const sidebars: SidebarsConfig = {
         {
           type: "link",
           label: "Platform",
-          className: "sidebar-platform",
-          href: "/docs/platform",
-          customProps: {
+          // className: "sidebar-platform",
+          // href: "/docs/platform",
+          // customProps: {
             description:
               "Learn how to manage Harness features that integrate with all modules.",
           },
