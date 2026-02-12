@@ -88,9 +88,7 @@ const sidebars: SidebarsConfig = {
           customProps: {
             description:
               "Get started with Harness Database DevOps",
-          },
-        },
-        // Infrastructure as Code Landing Page
+Landing Page
         {
           type: "link",
           href: "/docs/infrastructure-as-code-management",
@@ -197,9 +195,7 @@ const sidebars: SidebarsConfig = {
           href: "/docs/internal-developer-portal",
           label: "Internal Developer Portal",
           className: "sidebar-idp",
-
-          customProps: {
-            description: "Get started with Harness Internal Developer Portal",
+et started with Harness Internal Developer Portal",
           },
         },
         // Cloud Development Environments Landing Page
@@ -1972,7 +1968,7 @@ const sidebars: SidebarsConfig = {
     },
     // Release Notes
     {
-      type: "link",
+      type: "link3",
       label: "Release Notes",
       className: "sidebar-Release_Notes",
       href: "/release-notes/code-repository",
@@ -1992,7 +1988,7 @@ const sidebars: SidebarsConfig = {
     },
     // API Docs
     {
-      type: "link",
+      type: "link2",
       label: "API Reference",
       className: "sidebar-API_Reference",
       href: "https://apidocs.harness.io/tag/repository/",
@@ -2000,7 +1996,7 @@ const sidebars: SidebarsConfig = {
         description: "Harness API Docs.",
       },
     },
-    // All Docs
+
     {
       type: "link",
       label: "Show All Docs",
@@ -2012,5 +2008,5 @@ const sidebars: SidebarsConfig = {
     },
   ],
 };
-
+// some
 export default sidebars;
