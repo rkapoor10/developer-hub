@@ -12,7 +12,7 @@ Marketplace link: [Harness Code Repository for JIRA](https://marketplace.atlassi
 
 Before configuring the integration, ensure you have:
 
-- [A Harness Access Token](/docs/platform/automation/api/add-and-manage-api-keys/). Note: The Harness user whose access token is being used must have **Account Admin** permissions on the account.
+- [A Harness Access Token](/docs/platform/automation/api/add-and-manage-api-keys/). Note: The Harness user whose access token is being used must have **Account Admin** permissions on the account. This is required for internal webhook creation and **Account Admin** permissions can be revoked from the token once the integration is completed.
 - The Harness Base URL (e.g., `https://app.harness.io` or your custom domain).
 - JIRA Admin Permissions (You must be a JIRA admin or work with someone who has admin access to complete the integration).
 
